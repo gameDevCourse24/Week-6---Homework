@@ -1,11 +1,28 @@
+# Unity week 5: Two-dimensional scene-building and path-finding
 
-# שבוע 6 -מטלה שבועי
-## 1. שינויים קלים
-יהונתן - לדעתי כדאי לבחור בין א או ד.  
-את ג אני לא זוכר וב' ניראלי קשוח.   
-לגבי ד - לדעתי כדאי ללכת על [פקמן](https://www.myabandonware.com/game/pacmania-2d-kdz)  
-זה מ[האתר](https://www.myabandonware.com/) שאראל הביא למשחקים שהמפתחים נטשו.
-## 2. אלגוריתמים
-יהונתן - לדעתי ב,ג,ד הם סבירים.  
-ה' -יכול להיות שהוא פשוט אבל לא התעמקתי.  
-בג' יש ממש קוד ב[קישור](https://medium.com/@guribemontero/dungeon-generation-using-binary-space-trees-47d4a668e2d0) שאראל הביא
+A project with step-by-step scenes illustrating how to construct a 2D scene using tilemaps,
+and how to do path-finding using the BFS algorithm.
+
+Text explanations are available 
+[here](https://github.com/gamedev-at-ariel/gamedev-5782) in folder 07.
+
+## Cloning
+To clone the project, you may need to install git lfs first:
+
+    git lfs install 
+
+
+## Credits
+
+Graphics:
+* [Ultima 4 Graphics](https://github.com/jahshuwaa/u4graphics) by Joshua Steele.
+
+Online course:
+* [Unity 2D](https://www.udemy.com/course/unitycourse/learn/lecture/10246496), a Udemy course by Gamedev.tv.
+* [Unity RPG](https://www.gamedev.tv/p/unity-rpg/?product_id=1503859&coupon_code=JOINUS).
+
+Procedural generation:
+* [Habrador - Unity Programming Patterns](https://github.com/Habrador/Unity-Programming-Patterns#7-double-buffer)
+
+Programming:
+* Erel Segal-Halevi
